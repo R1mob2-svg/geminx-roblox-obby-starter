@@ -1,0 +1,13 @@
+{
+  "ClassName": "Part",
+  "Properties": {
+    "Name": "Finish",
+    "Size": [14, 2, 14],
+    "Position": [0, 41, -18],
+    "Anchored": true,
+    "CanCollide": true,
+    "Color": [1.0, 0.9, 0.2],
+    "Material": "Neon",
+    "Transparency": 0
+  }
+}
