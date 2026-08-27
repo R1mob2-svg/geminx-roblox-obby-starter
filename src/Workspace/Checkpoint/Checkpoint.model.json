@@ -1,0 +1,13 @@
+{
+  "ClassName": "Part",
+  "Properties": {
+    "Name": "Checkpoint",
+    "Size": [10, 1.5, 8],
+    "Position": [0, 27, around -1],
+    "Anchored": true,
+    "CanCollide": true,
+    "Color": [0.1, 1.0, 0.4],
+    "Material": "Neon",
+    "Transparency": 0
+  }
+}
