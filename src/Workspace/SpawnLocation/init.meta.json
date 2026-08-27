@@ -1,0 +1,12 @@
+{
+	"$className": "SpawnLocation",
+	"Name": "SpawnLocation",
+	"Neutral": true,
+	"Duration": 5,
+	"Size": [16, 2, 16],
+	"Position": [0, 2, 30],
+	"CFrame": {
+		"$className": "CFrameValue",
+		"Value": "0, 2, 30"
+	}
+}
