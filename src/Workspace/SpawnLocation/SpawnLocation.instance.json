@@ -1,0 +1,11 @@
+{
+  "Name": "SpawnLocation",
+  "ClassName": "SpawnLocation",
+  "Properties": {
+    "Neutral": true,
+    "Size": [16, 2, 16],
+    "Position": [0, 3, 40],
+    "CanCollide": true,
+    "Transparency": 0
+  }
+}
