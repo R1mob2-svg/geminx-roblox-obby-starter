@@ -1,0 +1,13 @@
+{
+  "ClassName": "Part",
+  "Properties": {
+    "Name": "Platform2",
+    "Size": [8, 2, 8],
+    "Position": [0, 14, 22],
+    "Anchored": true,
+    "CanCollide": true,
+    "Color": [0.2, 0.6, 1.0],
+    "Material": "SmoothPlastic",
+    "Transparency": 0
+  }
+}
