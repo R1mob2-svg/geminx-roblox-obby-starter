@@ -4,39 +4,17 @@
     "$className": "DataModel",
     "Workspace": {
       "$className": "Workspace",
-      "SpawnLocation": {
-        "$path": "src/Workspace/SpawnLocation",
-        "$className": "SpawnLocation",
-        "SpawnLocation": {
-          "$className": "ObjectValue"
-        }
-      },
-      "Platforms": {
-        "$path": "src/Workspace/Platforms",
-        "$className": "Folder"
-      },
-      "Lava": {
-        "$path": "src/Workspace/Lava",
-        "$className": "Folder"
-      },
-      "Checkpoint": {
-        "$path": "src/Workspace/Checkpoint",
-        "$className": "Folder"
-      },
-      "Finish": {
-        "$path": "src/Workspace/Finish",
-        "$className": "Folder"
-      }
+      "SpawnLocation": { "$path": "src/Workspace/SpawnLocation" },
+      "Platforms": { "$path": "src/Workspace/Platforms" },
+      "Lava": { "$path": "src/Workspace/Lava" },
+      "Checkpoint": { "$path": "src/Workspace/Checkpoint" },
+      "Finish": { "$path": "src/Workspace/Finish" }
     },
     "ServerScriptService": {
       "$className": "ServerScriptService",
       "GameScript": {
-        "$path": "src/ServerScriptService/GameScript.server.lua",
-        "$className": "Script"
+        "$path": "src/ServerScriptService/GameScript.server.lua"
       }
-    },
-    "Lighting": {
-      "$className": "Lighting"
     }
   }
 }
