@@ -1,0 +1,13 @@
+{
+  "ClassName": "Part",
+  "Properties": {
+    "Name": "Lava1",
+    "Size": [10, 2, 74],
+    "Position": [0, 0.5, 20],
+    "Anchored": true,
+    "CanCollide": false,
+    "Color": [1.0, 0.3, 0.1],
+    "Material": "Glass",
+    "Transparency": 0
+  }
+}
