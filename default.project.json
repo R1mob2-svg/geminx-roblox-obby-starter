@@ -1,0 +1,42 @@
+{
+  "name": "GeminX_SimpleObby",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$className": "Workspace",
+      "SpawnLocation": {
+        "$path": "src/Workspace/SpawnLocation",
+        "$className": "SpawnLocation",
+        "SpawnLocation": {
+          "$className": "ObjectValue"
+        }
+      },
+      "Platforms": {
+        "$path": "src/Workspace/Platforms",
+        "$className": "Folder"
+      },
+      "Lava": {
+        "$path": "src/Workspace/Lava",
+        "$className": "Folder"
+      },
+      "Checkpoint": {
+        "$path": "src/Workspace/Checkpoint",
+        "$className": "Folder"
+      },
+      "Finish": {
+        "$path": "src/Workspace/Finish",
+        "$className": "Folder"
+      }
+    },
+    "ServerScriptService": {
+      "$className": "ServerScriptService",
+      "GameScript": {
+        "$path": "src/ServerScriptService/GameScript.server.lua",
+        "$className": "Script"
+      }
+    },
+    "Lighting": {
+      "$className": "Lighting"
+    }
+  }
+}
